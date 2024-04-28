@@ -1,0 +1,9 @@
+.main-container {
+  text-align: center;
+}
+h1 {
+  font-family: 'Rubik Doodle Shadow', system-ui;
+  font-size: 4em;
+  margin: 5px;
+  color: #945178;
+}
